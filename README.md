@@ -1,2 +1,4 @@
 # Hello-World
-first project
+
+
+I have added some info to github about myself.
